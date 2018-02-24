@@ -130,3 +130,10 @@ body {
     transform: translate(0);
   ]
 }
+
+#footer {
+  text-align: center;
+  font-family: 'Alegreya', serif;
+  font-weight: lighter;
+  font-size: 12px;
+}
