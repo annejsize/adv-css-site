@@ -69,7 +69,7 @@ body {
 .heading-primary-main {
   font-family: 'Alegreya', serif;
   color: #fff;
-  font-size: 60px;
+  font-size: 85px;
   font-weight: 400;
   letter-spacing: 5px;
   display: block;
@@ -90,6 +90,19 @@ body {
   color: #fff;
   font-size: 12px;
   font-weight: 100;
+  text-align: center;
+}
+
+.skills-box {
+  position: relative;
+  text-align: center;
+}
+
+.section-typo-bbg {
+  font-family: 'Alegreya', serif;
+  color: black;
+  font-size: 85px;
+  font-weight: 400;
   text-align: center;
 }
 
